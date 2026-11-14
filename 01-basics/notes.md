@@ -41,3 +41,17 @@ Imagine a buyer and seller agree to use a smart contract as an escrow service:
 - Once the buyer confirms that the agreed conditions have been met, the contract releases the payment to the seller.
 
 This demonstrates how smart contracts can automate agreements and transactions using predefined rules.
+
+## Basic Blockchain Terms
+
+### 1. Transaction
+A transaction is an action carried out on a blockchain, such as sending cryptocurrency from one wallet to another. It is usually recorded on the blockchain after being verified by the network.
+
+### 2. Gas
+Gas is the fee or measurement of computational work required to perform an operation on the Ethereum network. Users pay gas fees in ETH to process transactions or execute smart contracts.
+
+### 3. Block
+A block is a section of a blockchain that contains a collection of verified transactions and other important information. Each block is connected to the previous one using its cryptographic hash, forming a chain.
+
+### 4. Node
+A node is a computer or device that participates in a blockchain network. It helps maintain the network by storing, sharing, or checking blockchain information according to the network's rules.
