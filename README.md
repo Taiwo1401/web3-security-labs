@@ -1,1 +1,1 @@
-# web3-security-labs
+# Learning blockchain security, started November 2026.
